@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pr16_1_Varaxin_2", "pr16_1_Varaxin_2.csproj", "{CFB5EB71-BF23-476A-BE52-9430E185A6A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFB5EB71-BF23-476A-BE52-9430E185A6A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB5EB71-BF23-476A-BE52-9430E185A6A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB5EB71-BF23-476A-BE52-9430E185A6A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB5EB71-BF23-476A-BE52-9430E185A6A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCDE70FA-3AA2-4590-AF6B-374823E8766D}
+	EndGlobalSection
+EndGlobal
