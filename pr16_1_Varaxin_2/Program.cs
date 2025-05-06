@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace pr16_2_Varaxin
+namespace pr16_3_Varaxin
 {
     internal class Program
     {
